@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>CompTIA Cloud+ Certification Bundle (Exam CV0-002)</dc:title>
+<dc:language>en</dc:language>
+<dc:identifier id="uid">3424593322</dc:identifier>
+<dc:creator>Wilson, Scott</dc:creator>
+<dc:creator>Vanderburg, Eric A.</dc:creator>
+<dc:creator>Lachance, Daniel</dc:creator>
+<dc:publisher>McGraw-Hill Education</dc:publisher>
+<dc:type>Text</dc:type>
+<dc:date opf:event="publication">2018-06-08</dc:date>
+<dc:rights>All rights reserved</dc:rights>
+<!-- Extra MetaData from RESC
+<dc:coverage>New York</dc:coverage>
+<dc:coverage>Chicago</dc:coverage>
+<dc:coverage>San Francisco</dc:coverage>
+<dc:coverage>Athens</dc:coverage>
+<dc:coverage>London</dc:coverage>
+<dc:coverage>Madrid</dc:coverage>
+<dc:coverage>Mexico City</dc:coverage>
+<dc:coverage>Milan</dc:coverage>
+<dc:coverage>New Delhi</dc:coverage>
+<dc:coverage>Singapore</dc:coverage>
+<dc:coverage>Sydney</dc:coverage>
+<dc:coverage>Toronto</dc:coverage>
+<dc:format>592 Pages</dc:format>
+<meta property="dcterms:modified">2018-03-20T20:00:00Z</meta>
+-->
+<meta name="cover" content="x_cover-image" />
+<meta name="output encoding" content="utf-8" />
+<meta name="primary-writing-mode" content="horizontal-lr" />
+<!-- BEGIN INFORMATION ONLY 
+<meta name="Cover ThumbNail Image" content="Images/image01298.jpeg" />
+<meta name="Drm Ebookbase Book Id" content="0006009815342" />
+<meta name="ASIN" content="B07CV68GW1" />
+<meta name="548 (hex)" content="496e4d656d6f7279" />
+<meta name="Metadata-Record-Offset" content="4294967295" />
+<meta name="override-kindle-fonts" content="false" />
+<meta name="Font-Signature_(hex)" content="0300000000000000000000000000008000200000000000000000000000000000f4edecbe01e901a901d701ef409440934099409c409d40a2" />
+<meta name="Clipping-Limit" content="100" />
+<meta name="Content-Language-Tag" content="en" />
+<meta name="Updated_Title" content="CompTIA Cloud+ Certification Bundle (Exam CV0-002)" />
+<meta name="sample" content="0" />
+<meta name="Mobi8-Boundary-Section" content="1048" />
+<meta name="Creator-Major-Version" content="2" />
+<meta name="HD-Media-Containers-Info" content="2400x3840:0-219|" />
+<meta name="Creator-Software" content="201" />
+<meta name="Watermark_(hex)" content="6174763a6b696e3a323a49516636423354506431614b7a41494344564a554b706f5a4e5a5363506d6a476b59314a6d6e4a6e4e695a63542f76474a3666634d2b31505051666e6e553152785872374867574a2b484a617171532f76412f516c514f4a6f4642586850585a6552766744503931664f757951425166592b715052574967616a39555a7331544949776346426844703572706968706331367376347564315a476b743679664157754c436b61793372784357716f6b6b4b5679414f78523143435a525a2b79413a6c5831767931475a6f56565a78467a4e2f6934767a6f72596a38773d" />
+<meta name="cdeType" content="EBOK" />
+<meta name="Creator-Build-Tag" content="0721-dedaf5" />
+<meta name="StartOffset" content="135883" />
+<meta name="HasFakeCover" content="0" />
+<meta name="MetadataResourceURI" content="kindle:embed:006Q" />
+<meta name="Creator-Minor-Version" content="9" />
+<meta name="Amazon_Creator_Info" content="kjw" />
+<meta name="Tamper-Proof-Keys_(hex)" content="01000000d000000001940000000191000000019500000001960000000197" />
+<meta name="Embedded-Record-Count" content="219" />
+<meta name="CDEContentKey" content="B07CV68GW1" />
+<meta name="Unknown_(407)_(hex)" content="0000000000000000" />
+<meta name="Ownership-Type_(hex)" content="00" />
+<meta name="Container_Id" content="9JES" />
+<meta name="547 (hex)" content="496e4d656d6f7279" />
+<meta name="Creator-Build-Number" content="0" />
+<meta name="Text-to-Speech-Disabled" content="0" />
+<meta name="Compression-Upgraded" content="Source-Target:c1-c2 KT_Version:2.9 Build:0805-4a0c57c" />
+<meta name="Rental-Expiration-Time" content="0000000000000000" />
+<meta name="Unknown_(403)_(hex)" content="00" />
+END INFORMATION ONLY -->
+</metadata>
+<manifest>
+<item id="x_cover1" media-type="application/xhtml+xml" href="Text/part0000.xhtml" />
+<item id="x_copy1" media-type="application/xhtml+xml" href="Text/part0001.xhtml" />
+<item id="x_toc" media-type="application/xhtml+xml" href="Text/part0002.xhtml" />
+<item id="x_sec1" media-type="application/xhtml+xml" href="Text/part0003.xhtml" />
+<item id="x_book1-cover" media-type="application/xhtml+xml" href="Text/part0004.xhtml" />
+<item id="x_book1-title" media-type="application/xhtml+xml" href="Text/part0005.xhtml" />
+<item id="x_book1-copy" media-type="application/xhtml+xml" href="Text/part0006.xhtml" />
+<item id="x_book1-dedi" media-type="application/xhtml+xml" href="Text/part0007.xhtml" />
+<item id="x_book1-about" media-type="application/xhtml+xml" href="Text/part0008.xhtml" />
+<item id="x_book1-fm" media-type="application/xhtml+xml" href="Text/part0009.xhtml" />
+<item id="x_book1-contents" media-type="application/xhtml+xml" href="Text/part0010.xhtml" />
+<item id="x_book1-preface" media-type="application/xhtml+xml" href="Text/part0011.xhtml" />
+<item id="x_book1-ack" media-type="application/xhtml+xml" href="Text/part0012.xhtml" />
+<item id="x_book1-intro" media-type="application/xhtml+xml" href="Text/part0013.xhtml" />
+<item id="x_book1-fm1" media-type="application/xhtml+xml" href="Text/part0014.xhtml" />
+<item id="x_book1-ch1" media-type="application/xhtml+xml" href="Text/part0015.xhtml" />
+<item id="x_book1-ch2" media-type="application/xhtml+xml" href="Text/part0016.xhtml" />
+<item id="x_book1-ch3" media-type="application/xhtml+xml" href="Text/part0017.xhtml" />
+<item id="x_book1-ch4" media-type="application/xhtml+xml" href="Text/part0018.xhtml" />
+<item id="x_book1-ch5" media-type="application/xhtml+xml" href="Text/part0019.xhtml" />
+<item id="x_book1-ch6" media-type="application/xhtml+xml" href="Text/part0020.xhtml" />
+<item id="x_book1-ch7" media-type="application/xhtml+xml" href="Text/part0021.xhtml" />
+<item id="x_book1-ch8" media-type="application/xhtml+xml" href="Text/part0022.xhtml" />
+<item id="x_book1-ch9" media-type="application/xhtml+xml" href="Text/part0023.xhtml" />
+<item id="x_book1-ch10" media-type="application/xhtml+xml" href="Text/part0024.xhtml" />
+<item id="x_book1-ch11" media-type="application/xhtml+xml" href="Text/part0025.xhtml" />
+<item id="x_book1-ch12" media-type="application/xhtml+xml" href="Text/part0026.xhtml" />
+<item id="x_book1-ch13" media-type="application/xhtml+xml" href="Text/part0027.xhtml" />
+<item id="x_book1-ch14" media-type="application/xhtml+xml" href="Text/part0028.xhtml" />
+<item id="x_book1-app" media-type="application/xhtml+xml" href="Text/part0029.xhtml" />
+<item id="x_book1-gloss" media-type="application/xhtml+xml" href="Text/part0030.xhtml" />
+<item id="x_book1-index" media-type="application/xhtml+xml" href="Text/part0031.xhtml" />
+<item id="x_book1-bm" media-type="application/xhtml+xml" href="Text/part0032.xhtml" />
+<item id="x_book2-cover" media-type="application/xhtml+xml" href="Text/part0033.xhtml" />
+<item id="x_book2-title" media-type="application/xhtml+xml" href="Text/part0034.xhtml" />
+<item id="x_book2-copy" media-type="application/xhtml+xml" href="Text/part0035.xhtml" />
+<item id="x_book2-dedi" media-type="application/xhtml+xml" href="Text/part0036.xhtml" />
+<item id="x_book2-about" media-type="application/xhtml+xml" href="Text/part0037.xhtml" />
+<item id="x_book2-fm" media-type="application/xhtml+xml" href="Text/part0038.xhtml" />
+<item id="x_book2-contentsataglance" media-type="application/xhtml+xml" href="Text/part0039.xhtml" />
+<item id="x_book2-contents" media-type="application/xhtml+xml" href="Text/part0040.xhtml" />
+<item id="x_book2-ack" media-type="application/xhtml+xml" href="Text/part0041.xhtml" />
+<item id="x_book2-intro" media-type="application/xhtml+xml" href="Text/part0042.xhtml" />
+<item id="x_book2-fm1" media-type="application/xhtml+xml" href="Text/part0043.xhtml" />
+<item id="x_book2-ch1" media-type="application/xhtml+xml" href="Text/part0044.xhtml" />
+<item id="x_book2-ch2" media-type="application/xhtml+xml" href="Text/part0045.xhtml" />
+<item id="x_book2-ch3" media-type="application/xhtml+xml" href="Text/part0046.xhtml" />
+<item id="x_book2-ch4" media-type="application/xhtml+xml" href="Text/part0047.xhtml" />
+<item id="x_book2-ch5" media-type="application/xhtml+xml" href="Text/part0048.xhtml" />
+<item id="x_book2-ch6" media-type="application/xhtml+xml" href="Text/part0049.xhtml" />
+<item id="x_book2-ch7" media-type="application/xhtml+xml" href="Text/part0050.xhtml" />
+<item id="x_book2-ch8" media-type="application/xhtml+xml" href="Text/part0051.xhtml" />
+<item id="x_book2-ch9" media-type="application/xhtml+xml" href="Text/part0052.xhtml" />
+<item id="x_book2-ch10" media-type="application/xhtml+xml" href="Text/part0053.xhtml" />
+<item id="x_book2-ch11" media-type="application/xhtml+xml" href="Text/part0054.xhtml" />
+<item id="x_book2-ch12" media-type="application/xhtml+xml" href="Text/part0055.xhtml" />
+<item id="x_book2-ch13" media-type="application/xhtml+xml" href="Text/part0056.xhtml" />
+<item id="x_book2-ch14" media-type="application/xhtml+xml" href="Text/part0057.xhtml" />
+<item id="x_book2-app" media-type="application/xhtml+xml" href="Text/part0058.xhtml" />
+<item id="item59" media-type="text/css" href="Styles/style0001.css" />
+<item id="item60" media-type="text/css" href="Styles/style0002.css" />
+<item id="item61" media-type="text/css" href="Styles/style0003.css" />
+<item id="item62" media-type="text/css" href="Styles/style0004.css" />
+<item id="x_cover-image" media-type="image/jpeg" href="Images/cover01080.jpeg" />
+<item id="item64" media-type="image/jpeg" href="Images/image01081.jpeg" />
+<item id="item65" media-type="image/jpeg" href="Images/image01082.jpeg" />
+<item id="item66" media-type="image/jpeg" href="Images/image01083.jpeg" />
+<item id="item67" media-type="image/jpeg" href="Images/image01084.jpeg" />
+<item id="item68" media-type="image/jpeg" href="Images/image01085.jpeg" />
+<item id="item69" media-type="image/jpeg" href="Images/image01086.jpeg" />
+<item id="item70" media-type="image/jpeg" href="Images/image01087.jpeg" />
+<item id="item71" media-type="image/jpeg" href="Images/image01088.jpeg" />
+<item id="item72" media-type="image/jpeg" href="Images/image01089.jpeg" />
+<item id="item73" media-type="image/jpeg" href="Images/image01090.jpeg" />
+<item id="item74" media-type="image/jpeg" href="Images/image01091.jpeg" />
+<item id="item75" media-type="image/jpeg" href="Images/image01092.jpeg" />
+<item id="item76" media-type="image/jpeg" href="Images/image01093.jpeg" />
+<item id="item77" media-type="image/jpeg" href="Images/image01094.jpeg" />
+<item id="item78" media-type="image/jpeg" href="Images/image01095.jpeg" />
+<item id="item79" media-type="image/jpeg" href="Images/image01096.jpeg" />
+<item id="item80" media-type="image/jpeg" href="Images/image01097.jpeg" />
+<item id="item81" media-type="image/jpeg" href="Images/image01098.jpeg" />
+<item id="item82" media-type="image/jpeg" href="Images/image01099.jpeg" />
+<item id="item83" media-type="image/jpeg" href="Images/image01100.jpeg" />
+<item id="item84" media-type="image/jpeg" href="Images/image01101.jpeg" />
+<item id="item85" media-type="image/jpeg" href="Images/image01102.jpeg" />
+<item id="item86" media-type="image/jpeg" href="Images/image01103.jpeg" />
+<item id="item87" media-type="image/jpeg" href="Images/image01104.jpeg" />
+<item id="item88" media-type="image/jpeg" href="Images/image01105.jpeg" />
+<item id="item89" media-type="image/jpeg" href="Images/image01106.jpeg" />
+<item id="item90" media-type="image/jpeg" href="Images/image01107.jpeg" />
+<item id="item91" media-type="image/jpeg" href="Images/image01108.jpeg" />
+<item id="item92" media-type="image/jpeg" href="Images/image01109.jpeg" />
+<item id="item93" media-type="image/jpeg" href="Images/image01110.jpeg" />
+<item id="item94" media-type="image/jpeg" href="Images/image01111.jpeg" />
+<item id="item95" media-type="image/jpeg" href="Images/image01112.jpeg" />
+<item id="item96" media-type="image/jpeg" href="Images/image01113.jpeg" />
+<item id="item97" media-type="image/jpeg" href="Images/image01114.jpeg" />
+<item id="item98" media-type="image/jpeg" href="Images/image01115.jpeg" />
+<item id="item99" media-type="image/jpeg" href="Images/image01116.jpeg" />
+<item id="item100" media-type="image/jpeg" href="Images/image01117.jpeg" />
+<item id="item101" media-type="image/jpeg" href="Images/image01118.jpeg" />
+<item id="item102" media-type="image/jpeg" href="Images/image01119.jpeg" />
+<item id="item103" media-type="image/jpeg" href="Images/image01120.jpeg" />
+<item id="item104" media-type="image/jpeg" href="Images/image01121.jpeg" />
+<item id="item105" media-type="image/jpeg" href="Images/image01122.jpeg" />
+<item id="item106" media-type="image/jpeg" href="Images/image01123.jpeg" />
+<item id="item107" media-type="image/jpeg" href="Images/image01124.jpeg" />
+<item id="item108" media-type="image/jpeg" href="Images/image01125.jpeg" />
+<item id="item109" media-type="image/jpeg" href="Images/image01126.jpeg" />
+<item id="item110" media-type="image/jpeg" href="Images/image01127.jpeg" />
+<item id="item111" media-type="image/jpeg" href="Images/image01128.jpeg" />
+<item id="item112" media-type="image/jpeg" href="Images/image01129.jpeg" />
+<item id="item113" media-type="image/jpeg" href="Images/image01130.jpeg" />
+<item id="item114" media-type="image/jpeg" href="Images/image01131.jpeg" />
+<item id="item115" media-type="image/jpeg" href="Images/image01132.jpeg" />
+<item id="item116" media-type="image/jpeg" href="Images/image01133.jpeg" />
+<item id="item117" media-type="image/jpeg" href="Images/image01134.jpeg" />
+<item id="item118" media-type="image/jpeg" href="Images/image01135.jpeg" />
+<item id="item119" media-type="image/jpeg" href="Images/image01136.jpeg" />
+<item id="item120" media-type="image/jpeg" href="Images/image01137.jpeg" />
+<item id="item121" media-type="image/jpeg" href="Images/image01138.jpeg" />
+<item id="item122" media-type="image/jpeg" href="Images/image01139.jpeg" />
+<item id="item123" media-type="image/jpeg" href="Images/image01140.jpeg" />
+<item id="item124" media-type="image/jpeg" href="Images/image01141.jpeg" />
+<item id="item125" media-type="image/jpeg" href="Images/image01142.jpeg" />
+<item id="item126" media-type="image/jpeg" href="Images/image01143.jpeg" />
+<item id="item127" media-type="image/jpeg" href="Images/image01144.jpeg" />
+<item id="item128" media-type="image/jpeg" href="Images/image01145.jpeg" />
+<item id="item129" media-type="image/jpeg" href="Images/image01146.jpeg" />
+<item id="item130" media-type="image/jpeg" href="Images/image01147.jpeg" />
+<item id="item131" media-type="image/jpeg" href="Images/image01148.jpeg" />
+<item id="item132" media-type="image/jpeg" href="Images/image01149.jpeg" />
+<item id="item133" media-type="image/jpeg" href="Images/image01150.jpeg" />
+<item id="item134" media-type="image/jpeg" href="Images/image01151.jpeg" />
+<item id="item135" media-type="image/jpeg" href="Images/image01152.jpeg" />
+<item id="item136" media-type="image/jpeg" href="Images/image01153.jpeg" />
+<item id="item137" media-type="image/jpeg" href="Images/image01154.jpeg" />
+<item id="item138" media-type="image/jpeg" href="Images/image01155.jpeg" />
+<item id="item139" media-type="image/jpeg" href="Images/image01156.jpeg" />
+<item id="item140" media-type="image/jpeg" href="Images/image01157.jpeg" />
+<item id="item141" media-type="image/jpeg" href="Images/image01158.jpeg" />
+<item id="item142" media-type="image/jpeg" href="Images/image01159.jpeg" />
+<item id="item143" media-type="image/jpeg" href="Images/image01160.jpeg" />
+<item id="item144" media-type="image/jpeg" href="Images/image01161.jpeg" />
+<item id="item145" media-type="image/jpeg" href="Images/image01162.jpeg" />
+<item id="item146" media-type="image/jpeg" href="Images/image01163.jpeg" />
+<item id="item147" media-type="image/jpeg" href="Images/image01164.jpeg" />
+<item id="item148" media-type="image/jpeg" href="Images/image01165.jpeg" />
+<item id="item149" media-type="image/jpeg" href="Images/image01166.jpeg" />
+<item id="item150" media-type="image/jpeg" href="Images/image01167.jpeg" />
+<item id="item151" media-type="image/jpeg" href="Images/image01168.jpeg" />
+<item id="item152" media-type="image/jpeg" href="Images/image01169.jpeg" />
+<item id="item153" media-type="image/jpeg" href="Images/image01170.jpeg" />
+<item id="item154" media-type="image/jpeg" href="Images/image01171.jpeg" />
+<item id="item155" media-type="image/jpeg" href="Images/image01172.jpeg" />
+<item id="item156" media-type="image/jpeg" href="Images/image01173.jpeg" />
+<item id="item157" media-type="image/jpeg" href="Images/image01174.jpeg" />
+<item id="item158" media-type="image/jpeg" href="Images/image01175.jpeg" />
+<item id="item159" media-type="image/jpeg" href="Images/image01176.jpeg" />
+<item id="item160" media-type="image/jpeg" href="Images/image01177.jpeg" />
+<item id="item161" media-type="image/jpeg" href="Images/image01178.jpeg" />
+<item id="item162" media-type="image/jpeg" href="Images/image01179.jpeg" />
+<item id="item163" media-type="image/jpeg" href="Images/image01180.jpeg" />
+<item id="item164" media-type="image/jpeg" href="Images/image01181.jpeg" />
+<item id="item165" media-type="image/jpeg" href="Images/image01182.jpeg" />
+<item id="item166" media-type="image/jpeg" href="Images/image01183.jpeg" />
+<item id="item167" media-type="image/jpeg" href="Images/image01184.jpeg" />
+<item id="item168" media-type="image/jpeg" href="Images/image01185.jpeg" />
+<item id="item169" media-type="image/jpeg" href="Images/image01186.jpeg" />
+<item id="item170" media-type="image/jpeg" href="Images/image01187.jpeg" />
+<item id="item171" media-type="image/jpeg" href="Images/image01188.jpeg" />
+<item id="item172" media-type="image/jpeg" href="Images/image01189.jpeg" />
+<item id="item173" media-type="image/jpeg" href="Images/image01190.jpeg" />
+<item id="item174" media-type="image/jpeg" href="Images/image01191.jpeg" />
+<item id="item175" media-type="image/jpeg" href="Images/image01192.jpeg" />
+<item id="item176" media-type="image/jpeg" href="Images/image01193.jpeg" />
+<item id="item177" media-type="image/jpeg" href="Images/image01194.jpeg" />
+<item id="item178" media-type="image/jpeg" href="Images/image01195.jpeg" />
+<item id="item179" media-type="image/jpeg" href="Images/image01196.jpeg" />
+<item id="item180" media-type="image/jpeg" href="Images/image01197.jpeg" />
+<item id="item181" media-type="image/jpeg" href="Images/image01198.jpeg" />
+<item id="item182" media-type="image/jpeg" href="Images/image01199.jpeg" />
+<item id="item183" media-type="image/jpeg" href="Images/image01200.jpeg" />
+<item id="item184" media-type="image/jpeg" href="Images/image01201.jpeg" />
+<item id="item185" media-type="image/jpeg" href="Images/image01202.jpeg" />
+<item id="item186" media-type="image/jpeg" href="Images/image01203.jpeg" />
+<item id="item187" media-type="image/jpeg" href="Images/image01204.jpeg" />
+<item id="item188" media-type="image/jpeg" href="Images/image01205.jpeg" />
+<item id="item189" media-type="image/jpeg" href="Images/image01206.jpeg" />
+<item id="item190" media-type="image/jpeg" href="Images/image01207.jpeg" />
+<item id="item191" media-type="image/jpeg" href="Images/image01208.jpeg" />
+<item id="item192" media-type="image/jpeg" href="Images/image01209.jpeg" />
+<item id="item193" media-type="image/jpeg" href="Images/image01210.jpeg" />
+<item id="item194" media-type="image/jpeg" href="Images/image01211.jpeg" />
+<item id="item195" media-type="image/jpeg" href="Images/image01212.jpeg" />
+<item id="item196" media-type="image/jpeg" href="Images/image01213.jpeg" />
+<item id="item197" media-type="image/jpeg" href="Images/image01214.jpeg" />
+<item id="item198" media-type="image/jpeg" href="Images/image01215.jpeg" />
+<item id="item199" media-type="image/jpeg" href="Images/image01216.jpeg" />
+<item id="item200" media-type="image/jpeg" href="Images/image01217.jpeg" />
+<item id="item201" media-type="image/jpeg" href="Images/image01218.jpeg" />
+<item id="item202" media-type="image/jpeg" href="Images/image01219.jpeg" />
+<item id="item203" media-type="image/jpeg" href="Images/image01220.jpeg" />
+<item id="item204" media-type="image/jpeg" href="Images/image01221.jpeg" />
+<item id="item205" media-type="image/jpeg" href="Images/image01222.jpeg" />
+<item id="item206" media-type="image/jpeg" href="Images/image01223.jpeg" />
+<item id="item207" media-type="image/jpeg" href="Images/image01224.jpeg" />
+<item id="item208" media-type="image/jpeg" href="Images/image01225.jpeg" />
+<item id="item209" media-type="image/jpeg" href="Images/image01226.jpeg" />
+<item id="item210" media-type="image/jpeg" href="Images/image01227.jpeg" />
+<item id="item211" media-type="image/jpeg" href="Images/image01228.jpeg" />
+<item id="item212" media-type="image/jpeg" href="Images/image01229.jpeg" />
+<item id="item213" media-type="image/jpeg" href="Images/image01230.jpeg" />
+<item id="item214" media-type="image/jpeg" href="Images/image01231.jpeg" />
+<item id="item215" media-type="image/jpeg" href="Images/image01232.jpeg" />
+<item id="item216" media-type="image/jpeg" href="Images/image01233.jpeg" />
+<item id="item217" media-type="image/jpeg" href="Images/image01234.jpeg" />
+<item id="item218" media-type="image/jpeg" href="Images/image01235.jpeg" />
+<item id="item219" media-type="image/jpeg" href="Images/image01236.jpeg" />
+<item id="item220" media-type="image/jpeg" href="Images/image01237.jpeg" />
+<item id="item221" media-type="image/jpeg" href="Images/image01238.jpeg" />
+<item id="item222" media-type="image/jpeg" href="Images/image01239.jpeg" />
+<item id="item223" media-type="image/jpeg" href="Images/image01240.jpeg" />
+<item id="item224" media-type="image/jpeg" href="Images/image01241.jpeg" />
+<item id="item225" media-type="image/jpeg" href="Images/image01242.jpeg" />
+<item id="item226" media-type="image/jpeg" href="Images/image01243.jpeg" />
+<item id="item227" media-type="image/jpeg" href="Images/image01244.jpeg" />
+<item id="item228" media-type="image/jpeg" href="Images/image01245.jpeg" />
+<item id="item229" media-type="image/jpeg" href="Images/image01246.jpeg" />
+<item id="item230" media-type="image/jpeg" href="Images/image01247.jpeg" />
+<item id="item231" media-type="image/jpeg" href="Images/image01248.jpeg" />
+<item id="item232" media-type="image/jpeg" href="Images/image01249.jpeg" />
+<item id="item233" media-type="image/jpeg" href="Images/image01250.jpeg" />
+<item id="item234" media-type="image/jpeg" href="Images/image01251.jpeg" />
+<item id="item235" media-type="image/jpeg" href="Images/image01252.jpeg" />
+<item id="item236" media-type="image/jpeg" href="Images/image01253.jpeg" />
+<item id="item237" media-type="image/jpeg" href="Images/image01254.jpeg" />
+<item id="item238" media-type="image/jpeg" href="Images/image01255.jpeg" />
+<item id="item239" media-type="image/jpeg" href="Images/image01256.jpeg" />
+<item id="item240" media-type="image/jpeg" href="Images/image01257.jpeg" />
+<item id="item241" media-type="image/jpeg" href="Images/image01258.jpeg" />
+<item id="item242" media-type="image/jpeg" href="Images/image01259.jpeg" />
+<item id="item243" media-type="image/jpeg" href="Images/image01260.jpeg" />
+<item id="item244" media-type="image/jpeg" href="Images/image01261.jpeg" />
+<item id="item245" media-type="image/jpeg" href="Images/image01262.jpeg" />
+<item id="item246" media-type="image/jpeg" href="Images/image01263.jpeg" />
+<item id="item247" media-type="image/jpeg" href="Images/image01264.jpeg" />
+<item id="item248" media-type="image/jpeg" href="Images/image01265.jpeg" />
+<item id="item249" media-type="image/jpeg" href="Images/image01266.jpeg" />
+<item id="item250" media-type="image/jpeg" href="Images/image01267.jpeg" />
+<item id="item251" media-type="image/jpeg" href="Images/image01268.jpeg" />
+<item id="item252" media-type="image/jpeg" href="Images/image01269.jpeg" />
+<item id="item253" media-type="image/jpeg" href="Images/image01270.jpeg" />
+<item id="item254" media-type="image/jpeg" href="Images/image01271.jpeg" />
+<item id="item255" media-type="image/jpeg" href="Images/image01272.jpeg" />
+<item id="item256" media-type="image/jpeg" href="Images/image01273.jpeg" />
+<item id="item257" media-type="image/jpeg" href="Images/image01274.jpeg" />
+<item id="item258" media-type="image/jpeg" href="Images/image01275.jpeg" />
+<item id="item259" media-type="image/jpeg" href="Images/image01276.jpeg" />
+<item id="item260" media-type="image/jpeg" href="Images/image01277.jpeg" />
+<item id="item261" media-type="image/jpeg" href="Images/image01278.jpeg" />
+<item id="item262" media-type="image/jpeg" href="Images/image01279.jpeg" />
+<item id="item263" media-type="image/jpeg" href="Images/image01280.jpeg" />
+<item id="item264" media-type="image/jpeg" href="Images/image01281.jpeg" />
+<item id="item265" media-type="image/jpeg" href="Images/image01282.jpeg" />
+<item id="item266" media-type="image/jpeg" href="Images/image01283.jpeg" />
+<item id="item267" media-type="image/jpeg" href="Images/image01284.jpeg" />
+<item id="item268" media-type="image/jpeg" href="Images/image01285.jpeg" />
+<item id="item269" media-type="image/jpeg" href="Images/image01286.jpeg" />
+<item id="item270" media-type="image/jpeg" href="Images/image01287.jpeg" />
+<item id="item271" media-type="image/jpeg" href="Images/image01288.jpeg" />
+<item id="item272" media-type="image/jpeg" href="Images/image01289.jpeg" />
+<item id="item273" media-type="image/jpeg" href="Images/image01290.jpeg" />
+<item id="item274" media-type="image/jpeg" href="Images/image01291.jpeg" />
+<item id="item275" media-type="image/jpeg" href="Images/image01292.jpeg" />
+<item id="item276" media-type="image/jpeg" href="Images/image01293.jpeg" />
+<item id="item277" media-type="image/jpeg" href="Images/image01294.jpeg" />
+<item id="item278" media-type="image/jpeg" href="Images/image01295.jpeg" />
+<item id="item279" media-type="image/jpeg" href="Images/image01296.jpeg" />
+<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="x_cover1" linear="yes"/>
+<itemref idref="x_copy1"/>
+<itemref idref="x_toc"/>
+<itemref idref="x_sec1"/>
+<itemref idref="x_book1-cover"/>
+<itemref idref="x_book1-title"/>
+<itemref idref="x_book1-copy"/>
+<itemref idref="x_book1-dedi"/>
+<itemref idref="x_book1-about"/>
+<itemref idref="x_book1-fm"/>
+<itemref idref="x_book1-contents"/>
+<itemref idref="x_book1-preface"/>
+<itemref idref="x_book1-ack"/>
+<itemref idref="x_book1-intro"/>
+<itemref idref="x_book1-fm1"/>
+<itemref idref="x_book1-ch1"/>
+<itemref idref="x_book1-ch2"/>
+<itemref idref="x_book1-ch3"/>
+<itemref idref="x_book1-ch4"/>
+<itemref idref="x_book1-ch5"/>
+<itemref idref="x_book1-ch6"/>
+<itemref idref="x_book1-ch7"/>
+<itemref idref="x_book1-ch8"/>
+<itemref idref="x_book1-ch9"/>
+<itemref idref="x_book1-ch10"/>
+<itemref idref="x_book1-ch11"/>
+<itemref idref="x_book1-ch12"/>
+<itemref idref="x_book1-ch13"/>
+<itemref idref="x_book1-ch14"/>
+<itemref idref="x_book1-app"/>
+<itemref idref="x_book1-gloss"/>
+<itemref idref="x_book1-index"/>
+<itemref idref="x_book1-bm"/>
+<itemref idref="x_book2-cover"/>
+<itemref idref="x_book2-title"/>
+<itemref idref="x_book2-copy"/>
+<itemref idref="x_book2-dedi"/>
+<itemref idref="x_book2-about"/>
+<itemref idref="x_book2-fm"/>
+<itemref idref="x_book2-contentsataglance"/>
+<itemref idref="x_book2-contents"/>
+<itemref idref="x_book2-ack"/>
+<itemref idref="x_book2-intro"/>
+<itemref idref="x_book2-fm1"/>
+<itemref idref="x_book2-ch1"/>
+<itemref idref="x_book2-ch2"/>
+<itemref idref="x_book2-ch3"/>
+<itemref idref="x_book2-ch4"/>
+<itemref idref="x_book2-ch5"/>
+<itemref idref="x_book2-ch6"/>
+<itemref idref="x_book2-ch7"/>
+<itemref idref="x_book2-ch8"/>
+<itemref idref="x_book2-ch9"/>
+<itemref idref="x_book2-ch10"/>
+<itemref idref="x_book2-ch11"/>
+<itemref idref="x_book2-ch12"/>
+<itemref idref="x_book2-ch13"/>
+<itemref idref="x_book2-ch14"/>
+<itemref idref="x_book2-app"/>
+</spine>
+<tours>
+</tours>
+<guide>
+<reference type="text" title="Cover" href="Text/part0000.xhtml" />
+<reference type="toc" title="CompTIA Cloud+ Certification Bundle (Exam CV0-002)" href="Text/part0002.xhtml" />
+</guide>
+</package>
